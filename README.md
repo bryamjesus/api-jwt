@@ -12,6 +12,8 @@ Al momento de hacer el login este te regresa un TOKEN
 ## Acciones
 Al momento de generar el token podemos realizar las demas acciones
 ![Listar Usuarios](src/public/img/listUsers.png)
+![Un pedido](src/public/img/getOne.png)
+![Actualizando](src/public/img/update.png)
 
 ## Pasado un tiempo ⌛
 Una vez pasado este tiempo (1 minuto) este ya no te permitirá realizar acciones
